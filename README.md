@@ -1,2 +1,2 @@
 # MyCode
-These are codes i write during my my graduation
+I have writen these codes during my graduation..
